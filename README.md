@@ -1,3 +1,9 @@
+# Update For an Audience Beyond Our Class
+
+The following narrative, "Just Like My Cat," is an audio narrative built based on the assignment by Ben Miller of the University of Pittsburgh. The assignment
+was intented to challenge students to create a story using only sounds in the platform audacity. I personally had never used audacity, so this was definitely a learning experience for me. Some very tangible skills I took away from the audacity platform include adjusting pitch, trimming audio, fading clips, layering clips, and adjusting volume. I would personally like to get better at transitions in audio and removing background static that came with using my iphone headphones. As far as the creative process, I started out thinking I was going to tell one story, then transitioned into telling another. My family and I have had many adopted animals throughout my life, and I wanted to show the nostaligia and emotions that come with adoption, something I have seen my parents go through many times as they remember their beloved childhood pets. 
+
+
 # Project 1: Audio Narrative
 
 Your task in this unit is to **arrange layers of sound to convey a sense of place and story.** In assigning this, I have two main goals for you: (1) to learn how to capture sound and edit it using digital tools, and (2) to explore the affordances of sound as a medium, with particular attention to its ability to communicate *immersive environment* and *narrative pacing and change*. The genre of the narrative you convey is open: it could be documentary, fictional, even science-fictional. (The title you choose will help steer listeners' expectations, and thus their perceptions.)
